@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Khakhra and chai placeholder</title>
+  <desc id="desc">Warm placeholder image for the website hero.</desc>
+  <rect width="1200" height="900" fill="#f8eddc"/>
+  <circle cx="940" cy="210" r="180" fill="#d7a84f" opacity=".42"/>
+  <circle cx="420" cy="500" r="265" fill="#c9865f"/>
+  <circle cx="420" cy="500" r="220" fill="#e5ba74"/>
+  <circle cx="420" cy="500" r="178" fill="#f2d18a"/>
+  <g fill="none" stroke="#8a4b2e" stroke-width="10" opacity=".35">
+    <path d="M220 485c120-60 268-72 415-15"/>
+    <path d="M225 555c135 46 270 50 405 2"/>
+    <path d="M270 380c120 24 237 18 350-18"/>
+  </g>
+  <g transform="translate(760 440)">
+    <ellipse cx="110" cy="130" rx="170" ry="46" fill="#c7b198" opacity=".5"/>
+    <circle cx="110" cy="70" r="105" fill="#fffdf8" stroke="#844126" stroke-width="12"/>
+    <circle cx="110" cy="70" r="72" fill="#a85f36"/>
+    <path d="M207 55c78-8 89 93 5 98" fill="none" stroke="#844126" stroke-width="16"/>
+  </g>
+  <text x="72" y="112" fill="#844126" font-family="Georgia, serif" font-size="54" font-weight="700">Khakhra + Chai</text>
+</svg>

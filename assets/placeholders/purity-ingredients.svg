@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Purity ingredients placeholder</title>
+  <desc id="desc">Placeholder for clean ingredients.</desc>
+  <rect width="900" height="675" fill="#fff8ed"/>
+  <g stroke="#844126" stroke-width="7">
+    <circle cx="290" cy="360" r="100" fill="#eef2e5"/>
+    <circle cx="500" cy="335" r="122" fill="#f2d18a"/>
+    <rect x="610" y="235" width="88" height="230" rx="34" fill="#d7a84f"/>
+  </g>
+  <g fill="#70866b">
+    <ellipse cx="270" cy="345" rx="16" ry="38" transform="rotate(-32 270 345)"/>
+    <ellipse cx="315" cy="375" rx="16" ry="38" transform="rotate(28 315 375)"/>
+    <ellipse cx="492" cy="330" rx="14" ry="34" transform="rotate(58 492 330)"/>
+    <ellipse cx="540" cy="370" rx="14" ry="34" transform="rotate(-22 540 370)"/>
+  </g>
+  <path d="M630 225h48v-52h-48z" fill="#844126"/>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Clean Ingredients</text>
+</svg>

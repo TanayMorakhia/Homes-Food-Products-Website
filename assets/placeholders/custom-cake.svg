@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Custom cake placeholder</title>
+  <desc id="desc">Placeholder for homemade custom cake.</desc>
+  <rect width="900" height="675" fill="#f8eddc"/>
+  <rect x="250" y="300" width="400" height="180" rx="16" fill="#fffdf8" stroke="#844126" stroke-width="8"/>
+  <rect x="290" y="225" width="320" height="110" rx="16" fill="#f2d18a" stroke="#844126" stroke-width="8"/>
+  <path d="M280 302c58 35 103 35 161 0s109-34 170 0" fill="none" stroke="#b85f3c" stroke-width="14" stroke-linecap="round"/>
+  <g fill="#70866b">
+    <circle cx="350" cy="220" r="16"/>
+    <circle cx="450" cy="208" r="16"/>
+    <circle cx="550" cy="220" r="16"/>
+  </g>
+  <ellipse cx="450" cy="505" rx="270" ry="44" fill="#7d5a3b" opacity=".15"/>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Custom Cakes</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Namkeen snacks placeholder</title>
+  <desc id="desc">Placeholder for Gujarati namkeen and snacks.</desc>
+  <rect width="900" height="675" fill="#fff8ed"/>
+  <g stroke="#844126" stroke-width="8">
+    <ellipse cx="320" cy="410" rx="170" ry="90" fill="#fffdf8"/>
+    <ellipse cx="580" cy="360" rx="170" ry="90" fill="#fffdf8"/>
+  </g>
+  <g fill="#d7a84f">
+    <path d="M225 380h180l-18 62H243z"/>
+    <circle cx="295" cy="370" r="18"/>
+    <circle cx="342" cy="380" r="16"/>
+    <circle cx="610" cy="330" r="18"/>
+    <circle cx="555" cy="338" r="16"/>
+    <path d="M500 342h160l-25 65H525z"/>
+  </g>
+  <g fill="#b85f3c">
+    <circle cx="275" cy="405" r="8"/>
+    <circle cx="367" cy="420" r="7"/>
+    <circle cx="550" cy="382" r="8"/>
+    <circle cx="625" cy="370" r="7"/>
+  </g>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Namkeen Snacks</text>
+</svg>
