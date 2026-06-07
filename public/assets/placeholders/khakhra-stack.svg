@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Khakhra stack placeholder</title>
+  <desc id="desc">Placeholder for finished hand-rolled khakhra.</desc>
+  <rect width="900" height="675" fill="#f8eddc"/>
+  <ellipse cx="450" cy="510" rx="300" ry="62" fill="#7d5a3b" opacity=".18"/>
+  <g stroke="#844126" stroke-width="7">
+    <ellipse cx="450" cy="430" rx="285" ry="70" fill="#e8b96d"/>
+    <ellipse cx="450" cy="380" rx="285" ry="70" fill="#efc77e"/>
+    <ellipse cx="450" cy="330" rx="285" ry="70" fill="#f1d18e"/>
+    <ellipse cx="450" cy="280" rx="285" ry="70" fill="#e9bd72"/>
+  </g>
+  <g fill="#844126" opacity=".25">
+    <circle cx="320" cy="268" r="9"/>
+    <circle cx="485" cy="305" r="7"/>
+    <circle cx="575" cy="257" r="10"/>
+    <circle cx="390" cy="350" r="8"/>
+    <circle cx="590" cy="386" r="7"/>
+  </g>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Hand-Rolled Khakhra</text>
+</svg>

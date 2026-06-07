@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Healthy cookies placeholder</title>
+  <desc id="desc">Placeholder for healthy homemade cookies.</desc>
+  <rect width="900" height="675" fill="#fff8ed"/>
+  <circle cx="455" cy="350" r="245" fill="#eef2e5"/>
+  <g fill="#c9865f" stroke="#844126" stroke-width="7">
+    <circle cx="330" cy="285" r="82"/>
+    <circle cx="486" cy="270" r="88"/>
+    <circle cx="405" cy="420" r="92"/>
+    <circle cx="570" cy="410" r="78"/>
+  </g>
+  <g fill="#6f5138">
+    <circle cx="305" cy="262" r="8"/>
+    <circle cx="355" cy="316" r="7"/>
+    <circle cx="500" cy="232" r="8"/>
+    <circle cx="452" cy="285" r="7"/>
+    <circle cx="390" cy="445" r="8"/>
+    <circle cx="585" cy="395" r="7"/>
+  </g>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Healthy Cookies</text>
+</svg>

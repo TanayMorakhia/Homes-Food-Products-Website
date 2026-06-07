@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Festive hamper placeholder</title>
+  <desc id="desc">Placeholder for festive food hamper.</desc>
+  <rect width="900" height="675" fill="#f8eddc"/>
+  <rect x="200" y="250" width="500" height="255" rx="18" fill="#c99b70" stroke="#844126" stroke-width="8"/>
+  <path d="M250 250c26-95 374-95 400 0" fill="none" stroke="#844126" stroke-width="14"/>
+  <rect x="430" y="250" width="40" height="255" fill="#b85f3c"/>
+  <rect x="200" y="348" width="500" height="40" fill="#b85f3c"/>
+  <circle cx="330" cy="292" r="56" fill="#f2d18a" stroke="#844126" stroke-width="7"/>
+  <rect x="505" y="282" width="98" height="84" rx="8" fill="#fffdf8" stroke="#844126" stroke-width="7"/>
+  <text x="56" y="96" fill="#844126" font-family="Georgia, serif" font-size="46" font-weight="700">Festive Hampers</text>
+</svg>

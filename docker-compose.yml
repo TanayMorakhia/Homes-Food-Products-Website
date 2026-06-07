@@ -1,0 +1,11 @@
+services:
+  homes-food-products:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_WHATSAPP_NUMBER: "919999999999"
+    image: homes-food-products:latest
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
