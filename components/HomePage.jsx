@@ -124,7 +124,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="hero-media">
-            <img src="/assets/placeholders/hero-khakhra-chai.svg" alt="Khakhra and chai placeholder" />
+            <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/placeholders/hero-khakhra-chai.svg`} alt="Khakhra and chai placeholder" />
           </div>
         </section>
 
@@ -155,7 +155,7 @@ export default function HomePage() {
               artisanal care to khakhra, namkeen, cookies, and cakes.
             </p>
             <img
-              src="/assets/placeholders/hand-rolling-process.svg"
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/placeholders/hand-rolling-process.svg`}
               alt="Hand rolling process placeholder"
             />
           </div>
