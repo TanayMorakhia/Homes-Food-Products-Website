@@ -10,7 +10,7 @@ if (isGithubActions && process.env.GITHUB_REPOSITORY) {
 const basePath = isGithubActions ? `/${repo}` : '';
 
 const nextConfig = {
-  output: 'export',
+  ...(isGithubActions ? { output: 'export' } : {}),
   basePath: basePath,
   images: {
     unoptimized: true,

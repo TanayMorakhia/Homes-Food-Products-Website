@@ -1,7 +1,9 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import { navItems, products, standards, trustItems } from "@/lib/site";
+import ProductList from "@/components/ProductList";
 import {
   createInquiryMessage,
   createProductMessage,
@@ -179,28 +181,16 @@ export default function HomePage() {
 
         <section id="products" className="products">
           <div className="section-heading">
-            <p className="eyebrow">Product Gallery</p>
+            <p className="eyebrow">Featured Products</p>
             <h2>Top sellers and custom favourites.</h2>
           </div>
 
-          <div className="product-grid">
-            {products.map((product) => (
-              <article className="product-card" key={product.name}>
-                <img src={product.image} alt={product.alt} />
-                <div>
-                  <p className="category">{product.category}</p>
-                  <h3>{product.name}</h3>
-                  <p>{product.description}</p>
-                  <button
-                    className="button small"
-                    type="button"
-                    onClick={() => openWhatsApp(createProductMessage(product.name))}
-                  >
-                    Order on WhatsApp
-                  </button>
-                </div>
-              </article>
-            ))}
+          <ProductList products={products.slice(0, 3)} />
+
+          <div style={{ marginTop: "2rem", textAlign: "center" }}>
+            <Link href="/catalogue" className="button secondary">
+              Explore more products
+            </Link>
           </div>
         </section>
 
