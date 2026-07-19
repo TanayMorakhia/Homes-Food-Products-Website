@@ -57,7 +57,7 @@ export default function CataloguePage() {
       </header>
 
       <main style={{ padding: "4rem 1rem", maxWidth: "1120px", margin: "0 auto" }}>
-        <h1 style={{ marginBottom: "3rem", textAlign: "center" }}>Product Catalogue</h1>
+        <h1 className="catalogue-title">Product Catalogue</h1>
 
         <section style={{ marginBottom: "4rem" }}>
           <div className="section-heading">

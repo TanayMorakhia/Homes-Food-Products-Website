@@ -544,3 +544,15 @@ code {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+.catalogue-title {
+  margin-bottom: 3rem;
+  text-align: center;
+  max-width: none;
+}
+
+@media (min-width: 720px) {
+  .catalogue-title {
+    text-align: left;
+  }
+}
