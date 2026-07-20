@@ -125,7 +125,7 @@ export default function HomePage() {
               </a>
             </div>
           </div>
-          <div className="hero-media">
+          <div className="hero-media" style={{ alignSelf: "center" }}>
             <img
               src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/Logo.png`}
               alt="Homes Food Products Logo"
