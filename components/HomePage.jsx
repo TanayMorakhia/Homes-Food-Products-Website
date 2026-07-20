@@ -73,11 +73,11 @@ export default function HomePage() {
     <>
       <header className="site-header">
         <a className="brand" href="#home" aria-label="Homes Food Products home">
-          <span className="brand-mark">H</span>
-          <span>
-            <strong>Homes</strong>
-            <small>Food Products</small>
-          </span>
+          <img
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/Logo.png`}
+            alt="Homes Food Products Logo"
+            style={{ height: "50px", width: "auto" }}
+          />
         </a>
 
         <button
