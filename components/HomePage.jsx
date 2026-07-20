@@ -126,7 +126,19 @@ export default function HomePage() {
             </div>
           </div>
           <div className="hero-media">
-            <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/placeholders/hero-khakhra-chai.svg`} alt="Khakhra and chai placeholder" />
+            <img
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/Logo.png`}
+              alt="Homes Food Products Logo"
+              style={{
+                margin: "0 auto",
+                border: "none",
+                background: "transparent",
+                boxShadow: "none",
+                maxWidth: "80%",
+                minHeight: "auto",
+                objectFit: "contain"
+              }}
+            />
           </div>
         </section>
 
