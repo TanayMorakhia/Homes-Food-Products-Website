@@ -25,11 +25,11 @@ export default function CataloguePage() {
     <>
       <header className="site-header">
         <Link className="brand" href="/" aria-label="Homes Food Products home">
-          <span className="brand-mark">H</span>
-          <span>
-            <strong>Homes</strong>
-            <small>Food Products</small>
-          </span>
+          <img
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/assets/Logo.png`}
+            alt="Homes Food Products Logo"
+            style={{ height: "50px", width: "auto" }}
+          />
         </Link>
 
         <button
